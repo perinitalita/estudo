@@ -17,7 +17,6 @@ def carrousel_webtoon():
             width: 100%;
             height: auto;   /* Altura automática */
             border-radius: 20px;
-            border: 2px solid #700B97;
         }
 
         .stButton>button {
